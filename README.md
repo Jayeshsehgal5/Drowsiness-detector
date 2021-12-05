@@ -16,6 +16,7 @@ The training is done for 60000 steps per epoch.
 <img src="drowsy1.jpeg" width=500 height=500>
 
 ## Prediction with OpenCV
+<img src="drowsiness detection.gif">
 
 ## Steps followed
 
